@@ -7,7 +7,6 @@ Briefly is a modern, AI-powered news aggregator that transforms top news stories
 - **Personalized News:** Select from categories like Technology, Business, Science, Health, and more.
 - **AI Summarization:** Uses advanced language models (via OpenRouter) to condense articles into focused summaries.
 - **Text-to-Speech:** Generates natural-sounding audio summaries using Google's Gemini TTS.
-- **Immersive Design:** A beautiful, responsive "frosted glass" interface with a starry background.
 - **Instant Access:** Audio is generated on-the-fly and served directly in your browser.
 
 ## Tech Stack
